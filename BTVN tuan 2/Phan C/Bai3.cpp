@@ -12,7 +12,6 @@ int main()
     {
         for (i=0; i<j; i++) cout << ' ';
         for (i=0; i<k; i++) cout << '*';
-        for (i=0; i<j; i++) cout << ' ';
         cout << endl;
         j--;
         k+=2;
